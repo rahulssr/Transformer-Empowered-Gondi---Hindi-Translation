@@ -1,17 +1,14 @@
 # Weed-Pro :  Precision Weed Detection and Segmentation 🌱🌱 
 
-Weeds 🌿 are the unwanted guests in our fields. Not only do they hog resources, but they can also lead to a devastating scenario: nutrient deficiency in the early stages of a crop's life, eventually culminating in crop failure 🥀.
+Languages transcend mere communication; they embody living expressions of culture, history, and identity. In today's swiftly evolving world, numerous languages hover on the brink of extinction, risking the loss of invaluable cultural narratives and shared histories. The urgency to preserve indigenous dialects is palpable, and among them stands Gondi. The Gondi people, self-referenced as "Koitur," intricately weave into India's cultural tapestry as native speakers of the Dravidian language, Gondi. Their presence spans states like Madhya Pradesh, Maharashtra, Chhattisgarh, and beyond. 🌍
 
-🎯 The Challenge: Weed management is tricky. It's not just about spotting a weed; it's about distinguishing between the main crop 🌾 and these unwelcome plants. Why? Because precise separation ensures effective management. But how do we tell them apart when, in nature, they look so similar?
+Despite their historical footprint, marked by kingdoms like Gondwana and the Garha Kingdom, the Gondi language, with its ties to Telugu, grapples with modernization challenges and the looming shadow of larger regional languages such as Hindi and Marathi. As of the 2001 census, the Gond population stood at approximately 11 million. However, linguistic assimilation, coupled with sociopolitical challenges like the Naxalite–Maoist insurgency, intensifies the need to safeguard and promote their distinctive linguistic heritage. 🗣️🛡️
 
-Enter deep learning 🧠. With the power of advanced algorithms, we can now analyze images 📸, identify, and even segregate weeds from crops. This is revolutionary for precision agriculture, drastically reducing herbicide pollution and ensuring our crops get all the nourishment they need.
+Our endeavor addresses the imminent threat of language extinction, specifically focusing on Hindi-Gondi translation. The goal is to facilitate social upliftment by enabling seamless communication between these diverse linguistic groups. Our proposed methodology employs a Transformer-based Neural Machine Translation (NMT) model, initiated by a rigorous pre-processing pipeline for data sanitization and dialect identification. This sets the stage for accurate translations across various Gondi dialects, including Dorla, Koya, Madiya, Muria, or Raj Gond. 🚀
 
-In this initiative, we shine the spotlight on onion-crop fields 🌰. The resemblance between crops and weeds in such fields is striking. So, our challenge is twofold:
+The subsequent stage involves implementing a Transformer-based NMT model enriched with innovative features such as weighted multi-head attention and learnable positional encoding. These elements collaborate harmoniously to process text inputs effectively. The model's quality and efficacy are showcased through a high-performance BLEU score, reinforcing its potential as a tool to bridge the communication divide among these diverse language groups. 📊✨
 
-Identify and separate weeds 🌿 from the main crop 🌾.
-Distinguish weeds from the very soil they sprout from 🌍.
-Our solution? A potent deep learning architecture. It doesn't just spot a weed; it segments it from an image, detects, and classifies it. At its core, this multiclass semantic segmentation fuses the strengths of both binary and multi-segmentation models.
-<img src= images/Overview.png  width = "1000" height = "600">
+<pdf src= transform.pdf  width = "1000" height = "600">
 
 
 ## Dataset Collection 🔍🔍
