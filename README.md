@@ -1,4 +1,4 @@
-# Weed-Pro :  Precision Weed Detection and Segmentation 🌱🌱 
+# Transformer-Empowered-Gondi---Hindi-Translation 
 
 Languages transcend mere communication; they embody living expressions of culture, history, and identity. In today's swiftly evolving world, numerous languages hover on the brink of extinction, risking the loss of invaluable cultural narratives and shared histories. The urgency to preserve indigenous dialects is palpable, and among them stands Gondi. The Gondi people, self-referenced as "Koitur," intricately weave into India's cultural tapestry as native speakers of the Dravidian language, Gondi. Their presence spans states like Madhya Pradesh, Maharashtra, Chhattisgarh, and beyond. 🌍
 
