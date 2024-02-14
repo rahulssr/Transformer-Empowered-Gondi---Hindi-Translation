@@ -8,7 +8,7 @@ Our endeavor addresses the imminent threat of language extinction, specifically 
 
 The subsequent stage involves implementing a Transformer-based NMT model enriched with innovative features such as weighted multi-head attention and learnable positional encoding. These elements collaborate harmoniously to process text inputs effectively. The model's quality and efficacy are showcased through a high-performance BLEU score, reinforcing its potential as a tool to bridge the communication divide among these diverse language groups. 📊✨
 
-[Transform.pdf](https://github.com/rahulssr/Transformer-Empowered-Gondi---Hindi-Translation/Transform.pdf).
+<img src = Transform-1.png  width = "800" height = "400">
 
 
 ## Dataset Collection 🔍🔍
