@@ -8,7 +8,7 @@ Our endeavor addresses the imminent threat of language extinction, specifically 
 
 The subsequent stage involves implementing a Transformer-based NMT model enriched with innovative features such as weighted multi-head attention and learnable positional encoding. These elements collaborate harmoniously to process text inputs effectively. The model's quality and efficacy are showcased through a high-performance BLEU score, reinforcing its potential as a tool to bridge the communication divide among these diverse language groups. 📊✨
 
-<img src = Conceptuall-1.png  width = "550" height = "400">
+<img src = Conceptuall-1.png  width = "700" height = "525">
 
 
 ## Dataset Collection 🔍🔍
